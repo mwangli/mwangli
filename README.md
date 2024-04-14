@@ -8,7 +8,7 @@
 - 📫 How to reach me:  email: **1325533186@qq.com**
  ------------------------
 
-### Code States
+### Code Stats
  ![](https://github-readme-stats.vercel.app/api?username=mwangli&show_icons=true&theme=transparent)
 
 ### Visited Count

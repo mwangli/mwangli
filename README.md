@@ -7,16 +7,13 @@
 - 💞️ I’m currently learning java and big data and AI
 - 📫 How to reach me:  email: **1325533186@qq.com**
  ------------------------
-
-### Code Stats
- ![](https://github-readme-stats.vercel.app/api?username=mwangli&show_icons=true&theme=transparent)
-
+ 
 ### Visited Count
 ![Visitor Count](https://profile-counter.glitch.me/mwangli/count.svg)
 
-### Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwangli&layout=compact&theme=tokyonight)
+### Used Language & Code Stats 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwangli&layout=compact&theme=transparent)  &emsp; &emsp; ![](https://github-readme-stats.vercel.app/api?username=mwangli&show_icons=true&theme=transparent) 
 
-### Code Actions
+### Code Actions  tokyonight
 ![Actions](https://github-readme-activity-graph.vercel.app/graph?username=mwangli&theme=dracula)
 

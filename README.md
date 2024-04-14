@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**mwangli/mwangli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👋 Hi, I’m mwangli
+- 👀 I hava worked for 5+ year on java backend engineer
+- 🌱 I studied the undergraduate class of **Sotfware engineer* in Xiangtan university ** of China
+- 💞️ I’m currently learning java and big data and AI
+- 📫 How to reach me:  email: **1325533186@qq.com**
+ ------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Code States
+ ![](https://github-readme-stats.vercel.app/api?username=mwangli&show_icons=true&theme=transparent)
+
+### Visited Count
+![Visitor Count](https://profile-counter.glitch.me/mwangli/count.svg)
+
+### Used Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwangli&layout=compact&theme=tokyonight)
+
+### Code Actions
+![](https://github-readme-activity-graph.cyclic.app/graph?username=mwangli&theme=dracula)
+

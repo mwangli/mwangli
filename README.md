@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m mwangli
-- 👀 I hava worked for 5+ year on java backend engineer
-- 🌱 I studied the undergraduate class of **Sotfware engineer* in Xiangtan university ** of China
+- 👀 I have worked for 5+ year on Java backend engineer
+- 🌱 I studied the undergraduate class of Software Engineering Major in Xiangtan University of China
 - 💞️ I’m currently learning java and big data and AI
 - 📫 How to reach me:  email: **1325533186@qq.com**
  ------------------------
@@ -18,5 +18,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwangli&layout=compact&theme=tokyonight)
 
 ### Code Actions
-![](https://github-readme-activity-graph.cyclic.app/graph?username=mwangli&theme=dracula)
+![Actions](https://github-readme-activity-graph.vercel.app/graph?username=mwangli&theme=dracula)
 

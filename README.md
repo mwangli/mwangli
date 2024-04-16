@@ -3,9 +3,9 @@
 
 - 👋 Hi, I’m mwangli
 - 👀 I have worked for 5+ year on Java backend engineer
-- 🌱 I studied the undergraduate class of Software Engineering Major in Xiangtan University of China
+- 🌱 I have gratuated from the class of Software Engineering Major in Xiangtan University of China
 - 💞️ I’m currently learning java and big data and AI
-- 📫 How to reach me:  email: **1325533186@qq.com**
+- 📫 How to contact me:  email: **1325533186@qq.com**
  ------------------------
  
 ### Visited Count
